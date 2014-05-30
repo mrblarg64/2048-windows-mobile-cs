@@ -1,0 +1,8 @@
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\8402-cs\8402-cs\bin\Release\8402-cs.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\8402-cs\8402-cs\bin\Release\8402-cs.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\8402-cs\8402-cs\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\8402-cs\8402-cs\obj\Release\_8402_cs.Form1.resources
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\8402-cs\8402-cs\obj\Release\_8402_cs.Properties.Resources.resources
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\8402-cs\8402-cs\obj\Release\8402-cs.csproj.GenerateResource.Cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\8402-cs\8402-cs\obj\Release\8402-cs.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\8402-cs\8402-cs\obj\Release\8402-cs.pdb
