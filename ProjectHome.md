@@ -1,0 +1,3 @@
+2048 For Windows Mobile
+YOU NEED HARDWARE DIRECTIONAL KEYS FOR THE GAME TO WORK.
+Will fix that soon
